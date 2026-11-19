@@ -1,0 +1,12 @@
+archive
+wandb
+logs
+temp*
+ldm_baseline_results
+.DS_Store
+__pycache__/
+*.pyc
+data/*.npy
+model/
+alae/training_artifacts/ffhq/*.pth
+logs_adult2child_mfc/
